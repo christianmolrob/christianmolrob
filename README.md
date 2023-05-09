@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on a Soccer Academy<br>🤝 I’m looking for help with Software Development<br>🌱 I’m currently learning Data Analytics, Python, Cybersecurity and DevOps<br>💬 Ask me about videogames<br>⚡ I love data about the universe
 
 
